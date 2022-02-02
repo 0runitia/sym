@@ -1,3 +1,4 @@
+foruml.php
 <form method="post" action="traitement.php">
     <p>
         <label for="login">Votre Login :</label>
